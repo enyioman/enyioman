@@ -16,7 +16,7 @@ I'm a DevOps Engineer. I am passionate about Cloud Engineering, DevOps, and Infr
 - ⚡ Fun fact: I love documentaries. My best channels are National Geographic, Histroy and Curiosity Channel.
 - 🎧 Coldplay, Weeknd, Khalid, Jon Bellion, JayZ, B.O.B, Kendrick Lamar, Rihanna are some of my favorite artistes.
 - 📖 My best quote is "Be careful what you wish for because you might get it"
-<img src="https://user-images.githubusercontent.com/64049432/203648913-38af64b1-2761-4a04-919d-aeb567935a47.gif" border-radius="5px" width="95%" height="600px">
+<img src="https://i.pinimg.com/originals/fd/83/da/fd83dae286887a5e9d266b949bb92635.gif" border-radius="5px" width="95%" height="600px">
 
 
 ## 🔧Technologies and Tools
