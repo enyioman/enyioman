@@ -46,8 +46,8 @@ I'm a DevOps Engineer. I am passionate about Cloud Engineering, DevOps, and Infr
 <p align="center">
   <a href="https://twitter.com/enyiomann"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
   <a href="https://www.linkedin.com/in/enyioman/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25> </a>
-  <a href=”https://medium.com/@enyioman”><img src=”https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25></a>
-  <a href="mailto:menyiomanwadibia@gmail.com"><img src="https://img.shields.io/badge/gmail-%EA4225.svg?&style=for-the-badge&logo=gmail&logoColor=red" height=25></a>
+  <a href=”https://medium.com/@enyioman”><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25></a>
+  <a href="mailto:enyiomanwadibia@gmail.com"><img src="https://img.shields.io/badge/gmail-%EA4225.svg?&style=for-the-badge&logo=gmail&logoColor=red" height=25></a>
 </p>
 
 
