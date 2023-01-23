@@ -13,11 +13,10 @@ I'm a DevOps Engineer. I am passionate about Cloud Engineering, DevOps, and Infr
 - 🌱 I’m currently learning: Kubernetes
 - 👯 I’m looking to collaborate on: DevOps and Cloud Engineering.
 - 😊 Pronouns: he/him
-- ⚡ Fun fact: I love documentaries. My best channels are National Geographic, Histroy and Curiosity Channel.
+- ⚡ Fun fact: I love documentaries. My best channels are National Geographic, History and Curiosity Channel.
 - 🎧 Coldplay, Weeknd, Khalid, Jon Bellion, JayZ, B.O.B, Kendrick Lamar, Rihanna are some of my favorite artistes.
 - 📖 My best quote is "Be careful what you wish for because you might get it"
 <img src="https://i.pinimg.com/originals/fd/83/da/fd83dae286887a5e9d266b949bb92635.gif" border-radius="5px" width="95%" height="600px">
-
 
 ## 🔧Technologies and Tools
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
