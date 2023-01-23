@@ -16,6 +16,14 @@ I'm a DevOps Engineer. I am passionate about Cloud Engineering, DevOps, and Infr
 - ⚡ Fun fact: I love documentaries. My best channels are National Geographic, History and Curiosity Channel.
 - 🎧 Coldplay, Weeknd, Khalid, Jon Bellion, JayZ, B.O.B, Kendrick Lamar, Rihanna are some of my favorite artistes.
 - 📖 My best quote is "Be careful what you wish for because you might get it"
+
+📕 &nbsp;**Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+- [CRUD Application Using API Gateway, Lambda, DynamoDB, and Python](https://medium.com/aws-tip/crud-application-using-api-gateway-lambda-dynamodb-and-python-84d486c87df4)
+- [Deploy a Docker Container on AWS ECS using Terraform](https://medium.com/@enyioman/deploy-a-docker-container-on-aws-ecs-using-terraform-6ad99c7d0498)
+<!-- BLOG-POST-LIST:END -->
+
+
 <img src="https://i.pinimg.com/originals/fd/83/da/fd83dae286887a5e9d266b949bb92635.gif" border-radius="5px" width="95%" height="600px">
 
 ## 🔧Technologies and Tools
