@@ -23,6 +23,13 @@ I'm a DevOps Engineer. I am passionate about Cloud Engineering, DevOps, and Infr
 - [Deploy a Docker Container on AWS ECS using Terraform](https://medium.com/@enyioman/deploy-a-docker-container-on-aws-ecs-using-terraform-6ad99c7d0498)
 <!-- BLOG-POST-LIST:END -->
 
+📊 &nbsp;**This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=enyioman&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+<details>
+  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+  <br/>
+
 
 <img src="https://i.pinimg.com/originals/fd/83/da/fd83dae286887a5e9d266b949bb92635.gif" border-radius="5px" width="95%" height="600px">
 
@@ -48,7 +55,7 @@ I'm a DevOps Engineer. I am passionate about Cloud Engineering, DevOps, and Infr
 ![](https://img.shields.io/badge/Ordchestration_Tool-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Linux-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
 
-## 🤝 Let's connect
+## 🤝 Connect with me
 
 <p align="center">
   <a href="https://twitter.com/enyiomann"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
