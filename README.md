@@ -27,7 +27,7 @@ I'm a DevOps Engineer. I am passionate about Cloud Engineering, DevOps, and Infr
 
 <!--START_SECTION:waka-->
 <p>
-<img src="https://wakatime.com/share/@enyioman/05dc4782-89d3-4e72-b79e-bac15343afc8.svg">
+<img src="https://wakatime.com/share/@enyioman/c44ecb28-b6f9-48a3-a72c-5d7c1a46f49a.svg" height="400" width="600">
 </p>
 <!--END_SECTION:waka-->
 
