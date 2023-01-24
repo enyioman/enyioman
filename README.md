@@ -26,7 +26,9 @@ I'm a DevOps Engineer. I am passionate about Cloud Engineering, DevOps, and Infr
 📊 &nbsp;**This week I spent my time on**
 
 <!--START_SECTION:waka-->
-![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=enyioman&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+<figure>
+<embed src="https://wakatime.com/share/@enyioman/de51a871-4f52-4198-bb17-a622b8255315.svg"></embed>
+</figure>
 <!--END_SECTION:waka-->
 
 
