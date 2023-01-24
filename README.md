@@ -27,12 +27,12 @@ I'm a DevOps Engineer. I am passionate about Cloud Engineering, DevOps, and Infr
 
 <!--START_SECTION:waka-->
 <p>
-<img src="https://wakatime.com/share/@enyioman/fdd66897-54eb-405d-9650-0c94f893599e.svg" height="400" width="600">
+<img src="https://wakatime.com/share/@enyioman/fdd66897-54eb-405d-9650-0c94f893599e.svg" height="400" width="800">
 </p>
 <!--END_SECTION:waka-->
 
 
-<img src="https://i.pinimg.com/originals/fd/83/da/fd83dae286887a5e9d266b949bb92635.gif" border-radius="5px" width="95%" height="600px">
+<!-- <img src="https://i.pinimg.com/originals/fd/83/da/fd83dae286887a5e9d266b949bb92635.gif" border-radius="5px" width="95%" height="600px"> -->
 
 ## 🔧Technologies and Tools
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
