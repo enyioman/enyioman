@@ -66,14 +66,14 @@ I'm a DevOps Engineer. I am passionate about Cloud Engineering, DevOps, and Infr
 </p>
 
 
-## Visitor Count
+<!-- ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/{enyioman}/count.svg)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=enyioman&bg_color=0D1117)  
 
-![GitHub metrics](https://metrics.lecoq.io/enyioman)  
+![GitHub metrics](https://metrics.lecoq.io/enyioman)   -->
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=enyioman&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)  
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=enyioman&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)   -->
 
 
 
