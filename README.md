@@ -19,6 +19,8 @@ I'm a DevOps Engineer. I am passionate about Cloud Engineering, DevOps, and Infr
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Implementing DevSecOps: Deploying a Netflix-Clone App on AWS EKS](https://medium.com/aws-tip/implementing-devsecops-deploying-a-netflix-clone-app-on-aws-eks-6b1078344ace)
+- [Elevating Customer Experience: Streamlining Workflows with AWS S3 Event Triggers](https://medium.com/aws-tip/elevating-customer-experience-streamlining-workflows-with-aws-s3-event-triggers-c0e481dee275)
 - [CRUD Application Using API Gateway, Lambda, DynamoDB, and Python](https://medium.com/aws-tip/crud-application-using-api-gateway-lambda-dynamodb-and-python-84d486c87df4)
 - [Deploy a Docker Container on AWS ECS using Terraform](https://medium.com/@enyioman/deploy-a-docker-container-on-aws-ecs-using-terraform-6ad99c7d0498)
 <!-- BLOG-POST-LIST:END -->
