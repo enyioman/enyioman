@@ -6,11 +6,11 @@
 
 <hr>
 <h1>I am Enyioma <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
-I'm a DevOps Engineer. I am passionate about Cloud Engineering, DevOps, and Infrastructure Automation.
+I'm a DevOps Engineer. I am passionate about Cloud Engineering, DevOps, Orchestration, and Automation.
 
 
 
-- 🌱 I’m currently learning: Kubernetes
+- 🌱 I’m currently learning: MLOps
 - 👯 I’m looking to collaborate on: DevOps and Cloud Engineering.
 - 😊 Pronouns: he/him
 - ⚡ Fun fact: I love documentaries. My best channels are National Geographic, History and Curiosity Channel.
